@@ -25,7 +25,7 @@ website fast and the repository small as possible.
 ## About the site
 Inspired by [Beautiful Open](http://beautifulopen.com/) [Bootstrap Expo](http://expo.getbootstrap.com/) and [Built With Ember](http://builtwithember.io/). It's built with
 [Jekyll](http://jekyllrb.com), developed on
-[GitHub](https://github.com/trek/beautiful-open), and is hosted
+[GitHub](https://github.com/mthierry/jbands), and is hosted
 on [GitHub Pages](https://pages.github.com).
 
 ## Contact
