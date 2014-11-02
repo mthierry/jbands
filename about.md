@@ -13,8 +13,8 @@ below.
 
 ## How to submit
 To submit a site suggestion,
-[open an issue](https://github.com/trek/beautiful-open/issues/new)
-or [create a pull request](https://github.com/trek/beautiful-open/pulls/new).
+[open an issue](https://github.com/mthierry/jbands/issues/new)
+or [create a pull request](https://github.com/mthierry/jbands/pulls/new).
 Pull requests will be given higher priority since
 they are easier to include. Make sure the screenshot is 1000x800 and please
 double check that everything looks good before submitting. It's also a good
