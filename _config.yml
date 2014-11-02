@@ -8,6 +8,6 @@ exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
 future:           false
-name:             Beautiful Open
-url:              http://beautifulopen.com
-description:      "Handsome sites for open source"
+name:             JBands
+url:              http://jbands.michelthierry.org
+description:      "Pretty sites from Japanese bands"
